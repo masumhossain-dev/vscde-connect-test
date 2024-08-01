@@ -6,3 +6,4 @@ const fruits = ["mango", "banana"];
 console.log(fruits.indexOf("banana"));
 
 console.log(sum.toFixed(1));
+//comment
